@@ -13,12 +13,18 @@ Created files, directories, and nested directory structures using Linux commands
 ### 3. [GNU Nano Text Editor](03-gnu-nano/README.md)
 Used GNU Nano to open and modify files, search and replace text, navigate to specific lines, save changes, and insert content from other files.
 
+### 4. [Deleting, Moving, & Copying](04-file-management/README.md)
+
+Deleted, moved, renamed, and copied files and directories using `rm`, `mv`, and `cp`, while exploring Bash features such as brace expansion and conditional command execution to improve efficiency.
+
 ## Skills Demonstrated
 
 - Linux command-line navigation
 - File and directory management
 - Terminal-based text editing
 - Command-line documentation and help resources
+- Recursive file and directory operations
+- Bash brace expansion and conditional command execution
 
 ## Learning Resource
 
